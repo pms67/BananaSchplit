@@ -6,3 +6,5 @@ Sufficient power capabilities to drive a large amount of analog gear (i.e. op-am
 ---
 
 **Repo contains all design files (KiCad) and production files ready for JLCPCB manufacturing and assembly.**
+
+You can order this board (incl. SMT assembly) at [https://www.jlcpcb.com](https://www.jlcpcb.com).
